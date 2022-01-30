@@ -1,0 +1,4 @@
+flask==2.0.2
+requests 
+pytest==6.2.5
+black==21.12b0
