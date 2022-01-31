@@ -50,7 +50,7 @@ Esta etapa só é concluída quando API retorna o valor _{"numbers": []}:_. Ao f
 
 A função _transform_api_ é baseada no algoritmo Merge Sort, no qual divide em sublistas, faz a ordenação e mescla novamente. A função recebe a lista desordenada de _extract_api_, faz toda a ordenação e salva uma lista toda ordenada em um arquivo .json.
 
-### 3. load 
+### 3. Load 
 
 A função _load_ abre o arquivo .json de lista ordenadas  e salva em uma lista convertida em string para subir na aplicação no Flask. 
 
