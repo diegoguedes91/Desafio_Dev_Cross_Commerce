@@ -16,7 +16,7 @@ pip install requests
 ```
 Pytest - versão 6.2.5
 ```python
-pip install pytests
+pip install pytest
 ```
 Black - versão 21.12b0
 ```python
